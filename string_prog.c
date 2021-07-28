@@ -55,6 +55,7 @@ int main (void)
 	}
 
 	printf("\n");
+	/* comment */
 
 	return 0;
 }
